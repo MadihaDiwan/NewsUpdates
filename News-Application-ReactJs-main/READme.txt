@@ -1,4 +1,4 @@
-1) A`fter Extracting the file open it in VS Code
+1) After Extracting the file open it in VS Code
 
 2) Edit the file "News.jsx" by updating API Key
 
